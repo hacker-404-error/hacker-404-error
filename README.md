@@ -2,4 +2,5 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=github-readme-stats)](https://github.com/hacker-404-error/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacker-404-error&layout=compact&langs_count=10)](https://github.com/hacker-404-error/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@PritamDas)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hacker-404-error&theme=dark)](https://git.io/streak-stats)
 
