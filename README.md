@@ -8,6 +8,13 @@
 </p>
 
 
+
+
+
+
+
+
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=hacker-404-error.hacker-404-error)
 
 
@@ -25,4 +32,19 @@
 
 
 
-[![Watch_Mania](https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Watch_Mania&show_owner=true)](https://github.com/hacker-404-error/Watch_Mania)
+[![Watch_Mania](https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Watch_Mania&theme=merko)](https://github.com/hacker-404-error/Watch_Mania)
+
+
+[![Operating_System](https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Operating_System&theme=jolly)](https://github.com/hacker-404-error/Operating_System)
+
+
+[![THE_COPTER_GAME](https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=THE_COPTER_GAME&theme=chartreuse-dark)](https://github.com/hacker-404-error/THE_COPTER_GAME)
+
+
+<!-- [![Watch_Mania](https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Watch_Mania&show_owner=true&theme=merko)](https://github.com/hacker-404-error/Watch_Mania)
+
+
+[![Watch_Mania](https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Watch_Mania&show_owner=true&theme=merko)](https://github.com/hacker-404-error/Watch_Mania) -->
+
+
+[![Student_Database_Management_System](https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Student_Database_Management_System&theme=aura)](https://github.com/hacker-404-error/Student_Database_Management_System)
