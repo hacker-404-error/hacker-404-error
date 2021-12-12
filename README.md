@@ -16,6 +16,21 @@
   <code><a href="https://www.instagram.com/er.pritamdas/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
+<br>
+<p align="center">
+  Hi, I'm Pritam Das, Computer Engineer from India
+  <br>
+  <br>
+  🔬 I'm currently pursuing my Bachelor degree from SRM University
+  <br>
+  💻 I love writing code and learn anythings about it.
+  <br>
+  📚 I’m currently learning how to build Dynamic Website
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/hacker-404-error/hacker-404-error/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: pd2657@srmist.edu.in">pd2657@srmist.edu.in</a>
+</p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
