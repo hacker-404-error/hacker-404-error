@@ -136,6 +136,14 @@
   <a href="https://github.com/hacker-404-error?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
+<h4 align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=hacker-404-error&theme=onedark">
+    </a>
+</h4>
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hacker-404-error&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+
   
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hacker-404-error&theme=dark)](https://git.io/streak-stats)
 
