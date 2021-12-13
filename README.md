@@ -3,10 +3,12 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=hacker-404-error&label=PROFILE+VIEWS">
 </div>
 
+<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
+
 <br><br>
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Pritam+Das....;Nice+to+meet+you!&center=true&size=30">
+  <a href=" https://readme-typing-svg.herokuapp.com/demo/">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%23F70F44&width=450&height=70&lines=Hello,+There!+👋;This+is+Pritam+Das....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <h5 align="center">
@@ -33,8 +35,13 @@
 </p>
 
 <hr>
+<h1 align="center">
+  <a href=" https://readme-typing-svg.herokuapp.com/demo/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Luxi+Mono&color=%237BF700&size=29&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%94%A5+Languages+%26+Frameworks+%26+Tools+%26+Abilities+%F0%9F%94%A5">
+  </a>
+<!-- </h1>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
+<br> -->
 <p align="center">
 <code><img title="C" height="40" src="images/c.svg"></code>
 <code><img title="C++" height="40" src="images/cpp.svg"></code>
