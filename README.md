@@ -138,7 +138,7 @@
 
 <h4 align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=hacker-404-error&theme=onedark">
+      <img src="https://github-profile-trophy.vercel.app/?username=hacker-404-error&theme=algolia">
     </a>
 </h4>
 
