@@ -102,7 +102,7 @@
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Operating_System&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
-  <a align="right" href="https://github.com/hacker-404-error/OOP_With_CPP" title="OOP With C++">
+  <a align="right" href="https://github.com/hacker-404-error/OOPS-IN-CPP" title="OOP With C++">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=OOP_With_CPP&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
