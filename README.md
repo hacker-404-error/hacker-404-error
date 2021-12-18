@@ -103,7 +103,7 @@
   </a>
   
   <a align="right" href="https://github.com/hacker-404-error/OOPS-IN-CPP" title="OOP With C++">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=OOP_With_CPP&theme=react&border_color=61dafb&border_radius=10">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=OOPS-IN-CPP&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
