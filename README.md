@@ -174,13 +174,11 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/hacker-404-error/CSS-Cheat-Sheet" title="CHEAT SHEET">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=
-CSS-Cheat-Sheet&theme=react&border_color=61dafb&border_radius=10">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=CSS-Cheat-Sheet&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
   <a align="right" href="https://github.com/hacker-404-error/Welcome_To_MyOnlineMeal" title="WELCOME TO ONLINE MEAL">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Welcome_To_MyOnlineMeal
-&theme=react&border_color=61dafb&border_radius=10">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Welcome_To_MyOnlineMeal&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
@@ -188,12 +186,10 @@ CSS-Cheat-Sheet&theme=react&border_color=61dafb&border_radius=10">
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/hacker-404-error/Data-Structure-In-CPP" title="DATA STRUCTURE IN CPP">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=
-Data-Structure-In-CPP&theme=react&border_color=61dafb&border_radius=10">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Data-Structure-In-CPP&theme=react&border_color=61dafb&border_radius=10">
   </a>  
   <a align="right" href="https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-" title="ML SUPERVISED LEARNING">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=
-ML-Supervised-Learning--Regression-&theme=react&border_color=61dafb&border_radius=10">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=ML-Supervised-Learning--Regression-&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
