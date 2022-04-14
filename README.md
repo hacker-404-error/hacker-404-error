@@ -1,63 +1,84 @@
+<!-- Profiles Viewa and Visitor Views -->
 <div align="center">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hacker-404-error.hacker-404-error">
 <img align="left" src="https://komarev.com/ghpvc/?username=hacker-404-error&label=PROFILE+VIEWS">
 </div>
 
-<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 
-<br><br>
+<br>
+<br>
 
+
+<!-- Introduction in Typing -->
 <h1 align="center">
   <a href=" https://readme-typing-svg.herokuapp.com/demo/">
     <img src="https://readme-typing-svg.herokuapp.com/?color=%23F70F44&width=450&height=70&lines=Hello,+There!+👋;This+is+Pritam+Das....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
+
 <br>
+
+
+<!-- Sankes Eating My Repo -->
 <div align="center">
     <img src="https://raw.githubusercontent.com/tanyarajhans/Actions/8c98d54e553ad39cc96a021fe1f07e5905b6a387/github-contribution-grid-snake.svg" alt="Snakes Eating My Repo">
 </div>
+
+
 <br>
 
 
-
-
-
-
-
-
-
+<!-- Social Media  -->
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/pritam-das-7489ab223/" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/pritam-das-7489ab223/" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/er_pritamdas22?hr_r=1" title="HackerRank Profile"><img width="30" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/er.pritamdas/" title="Instagram Profile"><img width="30" src="images/instagram.svg"> Instagram</a></code>
 </h5>
+
+
 <br>
 <br>
-<p align="center">
-  Hi, I'm Pritam Das, Computer Engineer from India
+
+
+<!-- gif for programmers -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
+
+<!-- Introduction About Me  -->
+<h3 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <br>
   <br>
-  🔬 I'm currently pursuing my Bachelor degree from SRM University
+  I'm Pritam Das, Computer Engineer From India. 
+  <br>
+  <br>
+  🔬 I'm currently pursuing my Bachelor degree from SRM University.
+  <br>
   <br>
   💻 I love writing code and learn anythings about it.
   <br>
-  📚 I’m currently learning how to build Dynamic Website
   <br>
-  💬 Ask me anything about from <a href="https://github.com/hacker-404-error/hacker-404-error/issues" title="Issues">Here</a>
+  📚 I’m currently learning how to build Dynamic Website.
   <br>
-  📫 How to reach me: <a href="mailto: pd2657@srmist.edu.in">pd2657@srmist.edu.in</a>
-</p>
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/hacker-404-error/hacker-404-error/issues" title="Issues">➡️</a>
+  <br>
+  <br>
+  📫 How to reach me: <a href="mailto: pd2657@srmist.edu.in"> ✉️.
+</h3>
 
+
+<!-- My Frameworks And Abilities -->
 <hr>
 <h1 align="center">
   <a href=" https://readme-typing-svg.herokuapp.com/demo/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Luxi+Mono&color=%237BF700&size=29&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%F0%9F%94%A5+Languages+%26+Frameworks+%26+Tools+%26+Abilities+%F0%9F%94%A5">
   </a>
-<!-- </h1>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br> -->
 <p align="center">
 <code><img title="C" height="40" src="images/c.svg"></code>
 <code><img title="C++" height="40" src="images/cpp.svg"></code>
@@ -89,121 +110,105 @@
 <code><img title="PHP" height="40" src="images/php.svg"></code>
 <!--   <code><img title="Flask" height="30" src="images/flask.png"></code> -->
 </p>
+
+
+
+
 <hr>
 
+
+
+
+<!-- STATUS -->
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <br>
+
 <p align=center>
   <div align=center>
-    <a href="https://github.com/hacker-404-error?tab=repositories" title="Go to Source">
+    <a href="https://github.com/hacker-404-error?tab=repositories">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=hacker-404-error&theme=tokyonight_duo"/>
     </a>
-    <a href="https://github.com/hacker-404-error?tab=repositories" title="Go to Source">
+    <a href="https://github.com/hacker-404-error?tab=repositories">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=hacker-404-error&theme=github_dark&show_icons=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+
+  <br>
+  <br>
+  <br>
+
   <div align=center>
     <a href="https://github.com/hacker-404-error?tab=repositories">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker-404-error&layout=compact&langs_count=10&theme=github_dark">
     </a>
   </div>
-  <br><br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=hacker-404-error&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
+  <br>
+  <br>
+  <br>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=hacker-404-error&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
+
+
+
+<!-- REPOSITORIES -->
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/hacker-404-error/Operating_System" title="Operating System">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Operating_System&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  
-  <a align="right" href="https://github.com/hacker-404-error/OOPS-IN-CPP" title="OOP With C++">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=OOPS-IN-CPP&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
+<br>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/hacker-404-error/Watch_Mania" title="Operating System">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Watch_Mania&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  
-  <a align="right" href="https://github.com/hacker-404-error/Welcome_To_MyOnlineMeal" title="OOP With C++">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Welcome_To_MyOnlineMeal&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/hacker-404-error/THE_COPTER_GAME" title="Operating System">
+  <a align="left" href="https://github.com/hacker-404-error/THE_COPTER_GAME" title="COPER GAME">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=THE_COPTER_GAME&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
-  <a align="right" href="https://github.com/hacker-404-error/SnakeGame" title="OOP With C++">
+  <a align="right" href="https://github.com/hacker-404-error/SnakeGame" title="SNAKE GAME">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=SnakeGame&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
 <br><br><br><br><br><br>
 
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/hacker-404-error/CSS-Cheat-Sheet" title="CHEAT SHEET">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=
+CSS-Cheat-Sheet&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  
+  <a align="right" href="https://github.com/hacker-404-error/Welcome_To_MyOnlineMeal" title="WELCOME TO ONLINE MEAL">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Welcome_To_MyOnlineMeal
+&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br><br><br><br><br><br>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/hacker-404-error/Data-Structure-In-CPP" title="DATA STRUCTURE IN CPP">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=
+Data-Structure-In-CPP&theme=react&border_color=61dafb&border_radius=10">
+  </a>  
+  <a align="right" href="https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-" title="ML SUPERVISED LEARNING">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=
+ML-Supervised-Learning--Regression-&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br><br><br><br><br><br>
+
+
+ <!-- SHOW MORE REPO -->
 <h4 align="center">
   <a href="https://github.com/hacker-404-error?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
+
+<!-- TROPHIES AND AWARDS -->
 <h4 align="center">
     <a href="https://github.com/hacker-404-error">
       <img src="https://github-profile-trophy.vercel.app/?username=hacker-404-error&theme=algolia">
     </a>
 </h4>
-
----
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hacker-404-error&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hacker-404-error&theme=dark)](https://git.io/streak-stats)
-
-
-
-
-
-
-
-
-
-![](https://visitor-badge.laobi.icu/badge?page_id=hacker-404-error.hacker-404-error)
-
-
-[![Pritams GitHub stats](https://github-readme-stats.vercel.app/api?username=hacker-404-error&theme=github_dark&show_icons=true)](https://github.com/hacker-404-error/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=github-readme-stats)](https://github.com/hacker-404-error/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacker-404-error&layout=compact&langs_count=10)](https://github.com/hacker-404-error/github-readme-stats)
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@PritamDas)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hacker-404-error&theme=dark)](https://git.io/streak-stats)
-<br>
-![](https://komarev.com/ghpvc/?username=hacker-404-error&label=PROFILE+VIEWS)
-
-
-
-
-
-
-
-[![Watch_Mania](https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Watch_Mania&theme=merko)](https://github.com/hacker-404-error/Watch_Mania)
-
-
-[![Operating_System](https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Operating_System&theme=jolly)]()
-
-
-[![THE_COPTER_GAME](https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=THE_COPTER_GAME&theme=chartreuse-dark)](https://github.com/hacker-404-error/THE_COPTER_GAME)
-
-
-[![Watch_Mania](https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Watch_Mania&show_owner=true&theme=merko)](https://github.com/hacker-404-error/Watch_Mania)
-
-
-[![Watch_Mania](https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Watch_Mania&show_owner=true&theme=merko)](https://github.com/hacker-404-error/Watch_Mania)
-
-
-[![Student_Database_Management_System](https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Student_Database_Management_System&theme=aura)](https://github.com/hacker-404-error/Student_Database_Management_System)
- -->
