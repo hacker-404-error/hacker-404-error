@@ -133,10 +133,9 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=hacker-404-error&theme=github_dark&show_icons=true" />
     </a>
   </div>
-
-  <br>
-  <br>
-  <br>
+  
+<br><br><br><br>
+<br><br><br><br>
 
   <div align=center>
     <a href="https://github.com/hacker-404-error?tab=repositories">
