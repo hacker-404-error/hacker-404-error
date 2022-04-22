@@ -44,8 +44,7 @@
 <!-- gif for programmers -->
 
 <div align="center">
-<img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="280"/>
-<img align="left" src="./images/NUX_Octodex%20(1).gif" width="280"/>
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="290"/>
 </div>
 
 
