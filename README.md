@@ -42,8 +42,10 @@
 
 
 <!-- gif for programmers -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
+
+<div align="center">
+<img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="280"/>
+<img align="left" src="./images/NUX_Octodex%20(1).gif" width="280"/>
 </div>
 
 
