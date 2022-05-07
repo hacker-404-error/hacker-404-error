@@ -201,10 +201,19 @@
   <a href="https://github.com/hacker-404-error?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-
+<br><br><br>
+  
 <!-- TROPHIES AND AWARDS -->
 <h4 align="center">
     <a href="https://github.com/hacker-404-error">
       <img src="https://github-profile-trophy.vercel.app/?username=hacker-404-error&theme=algolia">
     </a>
 </h4>
+  
+<h4 align="center">
+    <a href="https://github.com/hacker-404-error">
+      <img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg">
+    </a>
+</h4>
+ 
+  
