@@ -210,11 +210,11 @@
     </a>
 </h4>
   
-<h4 align="center">
+<!-- <h4 align="center">
     <a href="https://github.com/hacker-404-error">
       <img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg">
     </a>
-</h4>
+</h4> -->
 
 <div align="center">
     <a href="https://github.com/hacker-404-error">
